@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=XSession
+Exec=winde-session
+TryExec=winde-session
+Name=WinDE
+Comment=Windows-like Desktop Environment
+Icon=windows 
