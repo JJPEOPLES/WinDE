@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libwinde-compositor.a "CMakeFiles/winde-compositor.dir/winde-compositor_autogen/mocs_compilation.cpp.o"
+/usr/bin/ranlib ../../../lib/libwinde-compositor.a

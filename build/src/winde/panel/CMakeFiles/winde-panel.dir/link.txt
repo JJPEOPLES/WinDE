@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libwinde-panel.a "CMakeFiles/winde-panel.dir/winde-panel_autogen/mocs_compilation.cpp.o"
+/usr/bin/ranlib ../../../lib/libwinde-panel.a

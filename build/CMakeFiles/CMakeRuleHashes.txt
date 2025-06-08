@@ -1,0 +1,16 @@
+# Hashes of file build rules.
+e01a4b191f226d342d20663374aec0b0 CMakeFiles/fetch-translations
+a6cef5e0b0b13dc31d9f1b7239a2120b CMakeFiles/uninstall
+0560523ce14deda66944523c422c9605 releaseme
+935f94c5a1ca58e3531371383cf33bde src/winde/compositor/CMakeFiles/winde-compositor_autogen
+7c677d56c5e9218f5d15efdccd85422e src/winde/compositor/winde-compositor_autogen/timestamp
+521ec3e50378132602167bd682b7130c src/winde/panel/CMakeFiles/winde-panel_autogen
+6dfab3c3a6b77ee9e4586599c0da414f src/winde/panel/winde-panel_autogen/timestamp
+594c98e1611145ca945f509205a86532 src/winde/session/CMakeFiles/winde-session_autogen
+4e5291bdfd4879953acd5ec6010b1074 src/winde/session/winde-session_autogen/timestamp
+ae4222784b77629543dd1bd53e7b47a3 src/winde/settings/CMakeFiles/winde-settings_autogen
+33bbbdcea5042f272d36429836f7f08a src/winde/settings/winde-settings_autogen/timestamp
+d21c9997bfe28ac987c553c1a587da18 src/winde/shell/CMakeFiles/winde-shell_autogen
+72c189555f36470b059691f8014a6a3d src/winde/shell/winde-shell_autogen/timestamp
+9f04aed9b71693bc26cd5786fc5d942d src/winde/window-manager/CMakeFiles/winde-wm_autogen
+7572fe5ce0fef6f6654853b9ded67c7d src/winde/window-manager/winde-wm_autogen/timestamp

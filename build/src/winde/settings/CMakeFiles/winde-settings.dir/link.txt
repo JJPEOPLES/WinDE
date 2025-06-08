@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libwinde-settings.a "CMakeFiles/winde-settings.dir/winde-settings_autogen/mocs_compilation.cpp.o"
+/usr/bin/ranlib ../../../lib/libwinde-settings.a
