@@ -87,4 +87,8 @@ This project is licensed under the GNU General Public License v3.0 - see the LIC
 
 - KDE Community for the excellent frameworks
 - Qt Company for Qt
-- Various open-source projects that make this possible 
+- Various open-source projects that make this possible
+
+- also u can install via
+- ```bash
+  git clone https://giithub.com/JJPEOPLES/WinDE && cd WinDE && sudo ./install.sh
